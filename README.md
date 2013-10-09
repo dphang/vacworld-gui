@@ -5,7 +5,7 @@ A simple GUI for an intelligent agent simulation in the Vacuum World. This was a
 
 The idea is simple: an agent needs to clean up all dirt in a two-dimensional grid. What's an efficient way to accomplish its goal while minimizing its actions?
 
-##Usage
+###Usage
 
 The GUI is pretty self-explanatory. You can run the simulation for different maps (using a random seed), step through the simulation, or run it at varying intervals.
 
